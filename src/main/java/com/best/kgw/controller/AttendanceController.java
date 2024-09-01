@@ -101,7 +101,7 @@ public class AttendanceController {
         return attendanceList;
     }
 
-    @Scheduled(cron = "57 59 23 ? * 1-5")
+    //@Scheduled(cron = "57 59 23 ? * 1-5")
     public void run() throws Exception {
         try {
             attendanceService.attemdamceStateUpdate();

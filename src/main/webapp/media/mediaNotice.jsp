@@ -118,7 +118,7 @@
                   <button id="btn_search" class="btn btn-danger" onclick="mediaNoticeSearch()">검색</button>
                 </div>
                 <div class="col-md-6 d-flex justify-content-end">
-                  <button type="button" class="btn btn-danger" onclick="mediaNoticeForm()">작성</button>
+                  <button type="button" class="btn btn-danger" onclick="mediaNoticeForm()">글쓰기</button>
                 </div>
               </div>
               <!------------------------- [[ 미디어게시판목록 시작 ]] ------------------------->
